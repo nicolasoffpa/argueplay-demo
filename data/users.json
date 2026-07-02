@@ -1,0 +1,20 @@
+{
+  "users": {
+    "tralalero_lean": {
+      "username": "tralalero_lean",
+      "passwordHash": "d59007edb1032bdb64b389dfaadf9081:fc8b10ce5e9bbd88354fa15110362a817b8992c3083716fb67e9db2b6feedbf8176a80b607d6cf3eb62f3ce6e16ec864875f46b043febc262cbad5455667ee77",
+      "displayName": "nicolasoffpa",
+      "balance": 0,
+      "verified": true,
+      "createdAt": "2026-07-02T01:35:05.806Z"
+    },
+    "hola12345": {
+      "username": "hola12345",
+      "passwordHash": "94920fcd2ba4c5933517bf5160d1726c:f1c7086a3f549533fa16d6d8ef3988a6670890c34e4da4653115c1f2834c88208b0ce9ce7829405b782064ea63d7d3502a8c039e8ddae2421213a7be291b42dd",
+      "displayName": "12345",
+      "balance": 0,
+      "verified": true,
+      "createdAt": "2026-07-02T01:35:33.905Z"
+    }
+  }
+}
